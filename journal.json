@@ -2835,13 +2835,13 @@
    "pnlRatio": null,
    "strategyPnlText": "",
    "noTradeReason": "",
-   "stopLossTakeProfit": "",
+   "stopLossTakeProfit": "warsh超预期鹰，9月加息。",
    "trigger": "call 960",
    "ratings": {},
    "attribution": {},
-   "review": "",
+   "review": "市场定价9月加息升至60%，但我认为warsh不会那么快就加息，要加也是年底再加。所以主打9月份加息预期转成最终保持不变，吃到这段时间AU的涨幅即可。9月17日见分晓。",
    "raw": "",
-   "updated": 1788425944667
+   "updated": 1788426168574
   }
  ],
  "trades": [
@@ -3744,5 +3744,5 @@
    "pnl": -24000
   }
  ],
- "updatedAt": "2026-09-03T08:59:04.698Z"
+ "updatedAt": "2026-09-03T09:02:51.018Z"
 }
