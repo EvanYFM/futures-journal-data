@@ -2848,6 +2848,41 @@
    "review": "市场定价9月加息升至60%，但我认为warsh不会那么快就加息，要加也是年底再加。所以主打9月份加息预期转成最终保持不变，吃到这段时间AU的涨幅即可。9月17日见分晓。\n大非农不及预期，利好加息，平仓。\n最大错误：没能冲高到4500时平仓或者减仓一半，导致大部分利润消失。\n下一条规则：当期货价格涨到明显阻力位，一定要敢于逢高减仓，后面一定会有机会加回来这部分资金的，很难遇到月一直涨的行情。",
    "raw": "",
    "updated": 1788526944109
+  },
+  {
+   "id": "ws-20260904-AU",
+   "source": "工作台日志",
+   "kind": "observation",
+   "date": "2026-09-04",
+   "variety": "沪金",
+   "symbol": "AU",
+   "contract": null,
+   "strike": null,
+   "instrumentType": null,
+   "optionType": null,
+   "moneyness": null,
+   "direction": "多",
+   "strategySource": "自己",
+   "executed": true,
+   "tradeStatus": "closed",
+   "positionPct": "20%",
+   "myPnl": 2200,
+   "pnlRatio": null,
+   "strategyPnlText": "",
+   "noTradeReason": "",
+   "stopLossTakeProfit": "",
+   "trigger": "17.5",
+   "ratings": {},
+   "attribution": {
+    "判断错？": "N",
+    "时机错？": "N",
+    "仓位错？": "N",
+    "工具错？": "N",
+    "执行错？": "Y"
+   },
+   "review": "call 960\n18.5平仓，想做T\n最大错误：没能在开盘最低点加多，导致白白失去低位仓位，全部平仓。还是被恐慌情绪吓到了。\n下一条规则：如果没能逢高减仓，那么利空出现后不要着急平仓，或许这也是一起绝佳的加仓机会。因为从大趋势将如果利多，那么逢低加仓才是最正确的选择。如果已经跌下来了，就等待上涨机会，或者加仓。",
+   "raw": "",
+   "updated": 1788529135457
   }
  ],
  "trades": [
@@ -3750,5 +3785,5 @@
    "pnl": -24000
   }
  ],
- "updatedAt": "2026-09-04T13:35:26.464Z"
+ "updatedAt": "2026-09-04T13:38:56.562Z"
 }
