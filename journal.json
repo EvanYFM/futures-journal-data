@@ -2887,6 +2887,56 @@
    "review": "call 960\n18.5平仓，想做T\n最大错误：没能在开盘最低点加多，导致白白失去低位仓位，全部平仓。还是被恐慌情绪吓到了。\n下一条规则：如果没能逢高减仓，那么利空出现后不要着急平仓，或许这也是一起绝佳的加仓机会。因为从大趋势将如果利多，那么逢低加仓才是最正确的选择。如果已经跌下来了，就等待上涨机会，或者加仓。",
    "raw": "",
    "updated": 1788529135457
+  },
+  {
+   "id": "ws-20260904-JM",
+   "source": "工作台决策",
+   "kind": "observation",
+   "date": "2026-09-04",
+   "variety": "焦煤",
+   "symbol": "JM",
+   "contract": null,
+   "strike": null,
+   "instrumentType": null,
+   "optionType": null,
+   "direction": null,
+   "strategySource": "自己",
+   "executed": false,
+   "myPnl": null,
+   "pnlRatio": null,
+   "strategyPnlText": "",
+   "choice": "",
+   "tradeStatus": "no_trade",
+   "review": "",
+   "noTradeReason": "",
+   "stopLossTakeProfit": "",
+   "ratings": {},
+   "raw": ""
+  },
+  {
+   "id": "ws-20260904-LC",
+   "source": "工作台决策",
+   "kind": "observation",
+   "date": "2026-09-04",
+   "variety": "碳酸锂",
+   "symbol": "LC",
+   "contract": null,
+   "strike": null,
+   "instrumentType": null,
+   "optionType": null,
+   "direction": null,
+   "strategySource": "自己",
+   "executed": false,
+   "myPnl": null,
+   "pnlRatio": null,
+   "strategyPnlText": "",
+   "choice": "",
+   "tradeStatus": "no_trade",
+   "review": "",
+   "noTradeReason": "",
+   "stopLossTakeProfit": "",
+   "ratings": {},
+   "raw": ""
   }
  ],
  "trades": [
@@ -3789,5 +3839,5 @@
    "pnl": -24000
   }
  ],
- "updatedAt": "2026-09-06T03:18:58.554Z"
+ "updatedAt": "2026-09-06T03:19:31.481Z"
 }
