@@ -2933,6 +2933,31 @@
    "stopLossTakeProfit": "",
    "ratings": {},
    "raw": ""
+  },
+  {
+   "id": "ws-20260904-SA",
+   "source": "工作台决策",
+   "kind": "observation",
+   "date": "2026-09-04",
+   "variety": "纯碱",
+   "symbol": "SA",
+   "contract": null,
+   "strike": null,
+   "instrumentType": null,
+   "optionType": null,
+   "direction": null,
+   "strategySource": "自己",
+   "executed": false,
+   "myPnl": null,
+   "pnlRatio": null,
+   "strategyPnlText": "",
+   "choice": "",
+   "tradeStatus": "no_trade",
+   "review": "",
+   "noTradeReason": "",
+   "stopLossTakeProfit": "",
+   "ratings": {},
+   "raw": ""
   }
  ],
  "trades": [
@@ -3835,5 +3860,5 @@
    "pnl": -24000
   }
  ],
- "updatedAt": "2026-09-06T07:00:41.306Z"
+ "updatedAt": "2026-09-06T08:19:02.787Z"
 }
