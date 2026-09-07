@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="fjd-title fjd-desc">
+  <title id="fjd-title">期货交易日志数据层</title>
+  <desc id="fjd-desc">把 Excel 交易日志与月度复盘统一为可查询的结构化 journal.json：观察 93 条、交易 13 条、叙事 27 条、月度记录 6 条。</desc>
+
+  <defs>
+    <style>
+      .sans  { font-family: "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif; }
+      .mono  { font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+      .paper { fill: #e8e4da; }
+      .gray  { fill: #8f8a80; }
+      .dim   { fill: #b8b2a6; }
+    </style>
+  </defs>
+
+  <!-- 深墨底 -->
+  <rect width="1200" height="320" fill="#12100e"/>
+
+  <!-- 左：标题区 -->
+  <g transform="translate(56 0)">
+    <text class="sans gray" x="0" y="60" font-size="15" letter-spacing="0.3em">DATA LAYER · 期货品种工作站</text>
+    <text class="sans paper" x="0" y="126" font-size="56" font-weight="700" letter-spacing="0.04em">交易日志数据层</text>
+    <text class="sans dim" x="0" y="180" font-size="20" letter-spacing="0.08em">把 Excel 交易日志与月度复盘，统一为可查询的结构化数据</text>
+
+    <!-- 记录类型标签 -->
+    <text class="sans gray" x="0" y="240" font-size="17" letter-spacing="0.2em">观察 · 交易 · 叙事 · 月度</text>
+
+    <line x1="0" y1="268" x2="560" y2="268" stroke="#3a3630" stroke-width="1"/>
+    <text class="mono gray" x="0" y="298" font-size="14" letter-spacing="0.08em">journal.json · MIT · 每日更新</text>
+  </g>
+
+  <!-- 右：记录类型面板（真实计数） -->
+  <g transform="translate(672 40)">
+    <rect width="472" height="240" rx="12" fill="#1b1916" stroke="#2a2723" stroke-width="1"/>
+    <text class="sans gray" x="22" y="30" font-size="14" letter-spacing="0.18em">记录类型 · 2026-09-06</text>
+
+    <g transform="translate(22 0)">
+      <!-- 观察 93 -->
+      <g transform="translate(0 56)">
+        <text class="sans paper" x="0" y="10" font-size="18">观察 observations</text>
+        <rect x="232" y="0" width="196" height="12" rx="6" fill="#3a3630"/>
+        <rect x="232" y="0" width="196" height="12" rx="6" fill="#e8e4da"/>
+        <text class="mono paper" x="440" y="11" font-size="19" text-anchor="end">93</text>
+      </g>
+      <!-- 交易 13 -->
+      <g transform="translate(0 96)">
+        <text class="sans paper" x="0" y="10" font-size="18">交易 trades</text>
+        <rect x="232" y="0" width="196" height="12" rx="6" fill="#3a3630"/>
+        <rect x="232" y="0" width="28" height="12" rx="6" fill="#e8e4da"/>
+        <text class="mono paper" x="440" y="11" font-size="19" text-anchor="end">13</text>
+      </g>
+      <!-- 叙事 27 -->
+      <g transform="translate(0 136)">
+        <text class="sans paper" x="0" y="10" font-size="18">叙事 narratives</text>
+        <rect x="232" y="0" width="196" height="12" rx="6" fill="#3a3630"/>
+        <rect x="232" y="0" width="57" height="12" rx="6" fill="#e8e4da"/>
+        <text class="mono paper" x="440" y="11" font-size="19" text-anchor="end">27</text>
+      </g>
+      <!-- 月度 6 -->
+      <g transform="translate(0 176)">
+        <text class="sans paper" x="0" y="10" font-size="18">月度 months</text>
+        <rect x="232" y="0" width="196" height="12" rx="6" fill="#3a3630"/>
+        <rect x="232" y="0" width="13" height="12" rx="6" fill="#e8e4da"/>
+        <text class="mono paper" x="440" y="11" font-size="19" text-anchor="end">6</text>
+      </g>
+    </g>
+  </g>
+</svg>
