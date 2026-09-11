@@ -2963,6 +2963,36 @@
    "stopLossTakeProfit": "",
    "ratings": {},
    "raw": ""
+  },
+  {
+   "id": "ws-20260910-AU",
+   "source": "工作台日志",
+   "kind": "observation",
+   "date": "2026-09-10",
+   "variety": "沪金",
+   "symbol": "AU",
+   "contract": null,
+   "strike": null,
+   "instrumentType": null,
+   "optionType": null,
+   "moneyness": null,
+   "direction": "多",
+   "strategySource": "自己",
+   "executed": true,
+   "tradeStatus": "open",
+   "positionPct": "100%",
+   "myPnl": null,
+   "pnlRatio": null,
+   "strategyPnlText": "",
+   "noTradeReason": "",
+   "stopLossTakeProfit": "CPI数据指向加息。",
+   "trigger": "call 960",
+   "ratings": {},
+   "attribution": {},
+   "review": "认为9月不至于加息，且CPI数据不会超预期高。",
+   "selfInquiry": "",
+   "raw": "",
+   "updated": 1789093708400
   }
  ],
  "trades": [
@@ -3865,5 +3895,5 @@
    "pnl": -24000
   }
  ],
- "updatedAt": "2026-09-11T02:27:05.986Z"
+ "updatedAt": "2026-09-11T02:28:29.782Z"
 }
