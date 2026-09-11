@@ -2993,6 +2993,31 @@
    "selfInquiry": "",
    "raw": "",
    "updated": 1789093708400
+  },
+  {
+   "id": "ws-20260911-AU",
+   "source": "工作台决策",
+   "kind": "observation",
+   "date": "2026-09-11",
+   "variety": "沪金",
+   "symbol": "AU",
+   "contract": null,
+   "strike": null,
+   "instrumentType": null,
+   "optionType": null,
+   "direction": null,
+   "strategySource": "自己",
+   "executed": false,
+   "myPnl": null,
+   "pnlRatio": null,
+   "strategyPnlText": "",
+   "choice": "",
+   "tradeStatus": "no_trade",
+   "review": "",
+   "noTradeReason": "",
+   "stopLossTakeProfit": "",
+   "ratings": {},
+   "raw": ""
   }
  ],
  "trades": [
@@ -3895,5 +3920,5 @@
    "pnl": -24000
   }
  ],
- "updatedAt": "2026-09-11T09:19:44.303Z"
+ "updatedAt": "2026-09-11T09:22:09.350Z"
 }
